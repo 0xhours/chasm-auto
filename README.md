@@ -7,3 +7,4 @@ wget https://raw.githubusercontent.com/0xhours/chasm-auto/main/chasm-auto.sh && 
 
 resource from : https://github.com/sipalingnode/chasm-auto/blob/main/chasm-auto.sh
 
+this is for debian user, not ubuntu user
